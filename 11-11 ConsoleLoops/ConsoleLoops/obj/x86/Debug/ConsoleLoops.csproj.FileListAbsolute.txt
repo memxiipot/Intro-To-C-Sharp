@@ -1,0 +1,7 @@
+C:\Users\11379413\Desktop\ConsoleLoops\ConsoleLoops\bin\Debug\ConsoleLoops.exe
+C:\Users\11379413\Desktop\ConsoleLoops\ConsoleLoops\bin\Debug\ConsoleLoops.pdb
+C:\Users\11379413\Desktop\ConsoleLoops\ConsoleLoops\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\ConsoleLoops\ConsoleLoops\obj\x86\Debug\ConsoleLoops.exe
+C:\Users\11379413\Desktop\ConsoleLoops\ConsoleLoops\obj\x86\Debug\ConsoleLoops.pdb
+G:\ISPROG1\ConsoleLoops\ConsoleLoops\obj\x86\Debug\ConsoleLoops.exe
+G:\ISPROG1\ConsoleLoops\ConsoleLoops\obj\x86\Debug\ConsoleLoops.pdb

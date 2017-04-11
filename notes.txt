@@ -1,0 +1,106 @@
+//POP-UP MESSAGE
+MessageBox.Show("Words here");
+
+//CONVERT TABLE INPUT TO DATA
+x = int.Parse(table.Text);
+x = float.Parse(table.Text);
+x = double.Parse(table.Text);
+
+//CONVERT DATA TO TEXT
+table2.Text = y.ToString();
+
+//if-else
+if (boolean statement)
+	output = "Text here";
+else if (boolean statement)
+	output = "Text here";
+else { output = "Text here"; }
+table.Text = output.ToString();
+
+
+//
+float d;
+double r = d;
+r = Math.Sqrt(r);
+td.Text = r.ToString();
+d = (float)Math.Sqrt(x * x + y * y);
+
+//close button
+Application.Exit();
+
+//Change text in button (_MouseEnter or _MouseLeave)
+button.Text = "Change when hover";
+
+//remove text
+table.Clear();
+
+//play sound
+System.Media.SystemSounds._______.Play();
+
+//command to enable/disable
+button.Enabled = false;
+
+//command to make visible/invi
+button.Visible = false;
+
+//show form
+Form1 f;
+f = new Form1();
+f.Show();
+
+
+//show button
+Button b;
+b = new Button();
+b.Text = "Button Name";
+Controls.Add(b);
+
+//drawing
+Graphics g;
+Pen p;
+Brush b;
+g = this.CreateGraphics();
+p = new Pen(Color.Black, 2f);
+b = new SolidBrush(Color.Blue);
+g.DrawLine(p, 0, 0, 100, 100);
+g.DrawRectangle(p, 100, 100, 100, 100);
+g.DrawEllipse(p, 0, 0, 100, 100);
+g.FillRectangle(b, 0, 100, 100, 100);
+g.FillEllipse(b, 100, 0, 100, 100);
+
+//check if valid input
+float d1, d2;
+bool b1, b2;
+b1 = float.TryParse(td1.Text, out d1);
+b2 = float.TryParse(td2.Text, out d2);
+            if (b1 == true)
+            {   
+                if (b2 == true)
+                {   
+                    float q;
+                    q = d1 / d2;
+                    tq.Text = q.ToString();
+                }
+                else
+                {   
+                    MessageBox.Show("Invalid Divisor");
+                }
+            }
+            else
+            {   
+                MessageBox.Show("Invalid Dividend");
+
+
+//yes no text box
+DialogResult dr;
+dr = MessageBox.Show("Are you sure?","Quit Application",
+                      MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+	if (dr == DialogResult.Yes)
+            {   
+                Application.Exit();
+            }
+            else
+            {   
+                MessageBox.Show("I knew it!");
+            }

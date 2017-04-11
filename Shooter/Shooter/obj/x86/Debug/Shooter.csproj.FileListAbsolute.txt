@@ -1,0 +1,11 @@
+C:\Users\Marie\Desktop\Shooter\Shooter\bin\Debug\Shooter.exe
+C:\Users\Marie\Desktop\Shooter\Shooter\bin\Debug\Shooter.pdb
+C:\Users\Marie\Desktop\Shooter\Shooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marie\Desktop\Shooter\Shooter\obj\x86\Debug\Shooter.Form1.resources
+C:\Users\Marie\Desktop\Shooter\Shooter\obj\x86\Debug\Shooter.Properties.Resources.resources
+C:\Users\Marie\Desktop\Shooter\Shooter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marie\Desktop\Shooter\Shooter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marie\Desktop\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+C:\Users\Marie\Desktop\Shooter\Shooter\obj\x86\Debug\Shooter.pdb
+G:\Shooter\Shooter\obj\x86\Debug\Shooter.exe
+G:\Shooter\Shooter\obj\x86\Debug\Shooter.pdb

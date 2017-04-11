@@ -1,0 +1,9 @@
+C:\Users\Marie\Desktop\practice\practice\bin\Debug\practice.exe
+C:\Users\Marie\Desktop\practice\practice\bin\Debug\practice.pdb
+C:\Users\Marie\Desktop\practice\practice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marie\Desktop\practice\practice\obj\x86\Debug\practice.Form1.resources
+C:\Users\Marie\Desktop\practice\practice\obj\x86\Debug\practice.Properties.Resources.resources
+C:\Users\Marie\Desktop\practice\practice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marie\Desktop\practice\practice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marie\Desktop\practice\practice\obj\x86\Debug\practice.exe
+C:\Users\Marie\Desktop\practice\practice\obj\x86\Debug\practice.pdb

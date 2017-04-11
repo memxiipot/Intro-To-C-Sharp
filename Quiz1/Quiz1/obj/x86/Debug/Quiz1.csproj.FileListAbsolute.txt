@@ -1,0 +1,9 @@
+F:\ISPROG\Quiz1\Quiz1\bin\Debug\Quiz1.exe
+F:\ISPROG\Quiz1\Quiz1\bin\Debug\Quiz1.pdb
+F:\ISPROG\Quiz1\Quiz1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ISPROG\Quiz1\Quiz1\obj\x86\Debug\Quiz1.Form1.resources
+F:\ISPROG\Quiz1\Quiz1\obj\x86\Debug\Quiz1.Properties.Resources.resources
+F:\ISPROG\Quiz1\Quiz1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ISPROG\Quiz1\Quiz1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ISPROG\Quiz1\Quiz1\obj\x86\Debug\Quiz1.exe
+F:\ISPROG\Quiz1\Quiz1\obj\x86\Debug\Quiz1.pdb

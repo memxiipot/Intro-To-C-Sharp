@@ -1,0 +1,7 @@
+C:\Users\syel\Desktop\For and While\For and While\bin\Debug\For and While.exe
+C:\Users\syel\Desktop\For and While\For and While\bin\Debug\For and While.pdb
+C:\Users\syel\Desktop\For and While\For and While\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\syel\Desktop\For and While\For and While\obj\x86\Debug\For and While.exe
+C:\Users\syel\Desktop\For and While\For and While\obj\x86\Debug\For and While.pdb
+C:\Users\Marie\Desktop\ISPROG\11-18-13 (Loops and Strings)\For and While\For and While\obj\x86\Debug\For and While.exe
+C:\Users\Marie\Desktop\ISPROG\11-18-13 (Loops and Strings)\For and While\For and While\obj\x86\Debug\For and While.pdb

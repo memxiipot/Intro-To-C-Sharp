@@ -1,0 +1,5 @@
+C:\Users\syel\Desktop\My First Console Program\My First Console Program\bin\Debug\My First Console Program.exe
+C:\Users\syel\Desktop\My First Console Program\My First Console Program\bin\Debug\My First Console Program.pdb
+C:\Users\syel\Desktop\My First Console Program\My First Console Program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\syel\Desktop\My First Console Program\My First Console Program\obj\x86\Debug\My First Console Program.exe
+C:\Users\syel\Desktop\My First Console Program\My First Console Program\obj\x86\Debug\My First Console Program.pdb

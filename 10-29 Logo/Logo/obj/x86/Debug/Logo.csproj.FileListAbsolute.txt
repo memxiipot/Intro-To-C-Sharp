@@ -1,0 +1,38 @@
+C:\Users\Mark Brito\AppData\Local\Temporary Projects\Logo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark Brito\AppData\Local\Temporary Projects\Logo\obj\x86\Debug\Logo.Form1.resources
+C:\Users\Mark Brito\AppData\Local\Temporary Projects\Logo\obj\x86\Debug\Logo.Properties.Resources.resources
+C:\Users\Mark Brito\AppData\Local\Temporary Projects\Logo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mark Brito\AppData\Local\Temporary Projects\Logo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mark Brito\AppData\Local\Temporary Projects\Logo\bin\Debug\Logo.exe
+C:\Users\Mark Brito\AppData\Local\Temporary Projects\Logo\bin\Debug\Logo.pdb
+C:\Users\Mark Brito\AppData\Local\Temporary Projects\Logo\obj\x86\Debug\Logo.exe
+C:\Users\Mark Brito\AppData\Local\Temporary Projects\Logo\obj\x86\Debug\Logo.pdb
+C:\EM XII\Logo\Logo\obj\x86\Debug\Logo.exe
+C:\EM XII\Logo\Logo\obj\x86\Debug\Logo.pdb
+F:\Logo\Logo\obj\x86\Debug\Logo.exe
+F:\Logo\Logo\obj\x86\Debug\Logo.pdb
+F:\Logo\Logo\bin\Debug\Logo.exe
+F:\Logo\Logo\bin\Debug\Logo.pdb
+F:\Logo\Logo\obj\x86\Debug\Logo.Form1.resources
+F:\Logo\Logo\obj\x86\Debug\Logo.Properties.Resources.resources
+F:\Logo\Logo\obj\x86\Debug\Logo.csproj.GenerateResource.Cache
+F:\ISPROG1\Logo\Logo\obj\x86\Debug\Logo.exe
+F:\ISPROG1\Logo\Logo\obj\x86\Debug\Logo.pdb
+F:\ISPROG1\Logo\Logo\bin\Debug\Logo.exe
+F:\ISPROG1\Logo\Logo\bin\Debug\Logo.pdb
+F:\ISPROG1\Logo\Logo\obj\x86\Debug\Logo.Form1.resources
+F:\ISPROG1\Logo\Logo\obj\x86\Debug\Logo.Properties.Resources.resources
+F:\ISPROG1\Logo\Logo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ISPROG1\Logo\Logo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ISPROG1\Logo\Logo\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ISPROG1\Logo\Logo\obj\x86\Debug\Logo.exe
+G:\ISPROG1\Logo\Logo\obj\x86\Debug\Logo.pdb
+G:\ISPROG1\Logo\Logo\bin\Debug\Logo.exe
+G:\ISPROG1\Logo\Logo\bin\Debug\Logo.pdb
+G:\ISPROG1\Logo\Logo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ISPROG1\Logo\Logo\obj\x86\Debug\Logo.Form1.resources
+G:\ISPROG1\Logo\Logo\obj\x86\Debug\Logo.Properties.Resources.resources
+G:\ISPROG1\Logo\Logo\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ISPROG1\Logo\Logo\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ISPROG1\10-29 Logo\Logo\obj\x86\Debug\Logo.exe
+G:\ISPROG1\10-29 Logo\Logo\obj\x86\Debug\Logo.pdb

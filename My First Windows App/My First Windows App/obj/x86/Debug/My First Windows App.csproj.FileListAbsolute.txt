@@ -1,0 +1,17 @@
+C:\Users\11379413\Desktop\My First Windows App\My First Windows App\bin\Debug\My First Windows App.exe
+C:\Users\11379413\Desktop\My First Windows App\My First Windows App\bin\Debug\My First Windows App.pdb
+C:\Users\11379413\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\My_First_Windows_App.Form1.resources
+C:\Users\11379413\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\My_First_Windows_App.Properties.Resources.resources
+C:\Users\11379413\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\11379413\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\11379413\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.exe
+C:\Users\11379413\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.pdb
+F:\ISPROG\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.exe
+F:\ISPROG\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.pdb
+F:\ISPROG\My First Windows App\My First Windows App\bin\Debug\My First Windows App.exe
+F:\ISPROG\My First Windows App\My First Windows App\bin\Debug\My First Windows App.pdb
+F:\ISPROG\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.csprojResolveAssemblyReference.cache
+F:\ISPROG\My First Windows App\My First Windows App\obj\x86\Debug\My_First_Windows_App.Form1.resources
+F:\ISPROG\My First Windows App\My First Windows App\obj\x86\Debug\My_First_Windows_App.Properties.Resources.resources
+F:\ISPROG\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.csproj.GenerateResource.Cache

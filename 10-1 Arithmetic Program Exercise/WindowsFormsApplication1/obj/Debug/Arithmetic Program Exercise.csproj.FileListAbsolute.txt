@@ -1,0 +1,6 @@
+C:\Users\Marie\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arithmetic Program Exercise.exe.config
+C:\Users\Marie\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arithmetic Program Exercise.exe
+C:\Users\Marie\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arithmetic Program Exercise.pdb
+F:\ISPROG\Arithmetic Program Exercise\WindowsFormsApplication1\bin\Debug\Arithmetic Program Exercise.exe.config
+F:\ISPROG\Arithmetic Program Exercise\WindowsFormsApplication1\obj\Debug\Arithmetic Program Exercise.exe
+F:\ISPROG\Arithmetic Program Exercise\WindowsFormsApplication1\obj\Debug\Arithmetic Program Exercise.pdb

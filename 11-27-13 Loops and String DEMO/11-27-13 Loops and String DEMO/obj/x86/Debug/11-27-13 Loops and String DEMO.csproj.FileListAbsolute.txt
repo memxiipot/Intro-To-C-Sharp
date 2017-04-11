@@ -1,0 +1,18 @@
+C:\Users\11379413\Desktop\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\bin\Debug\11-27-13 Loops and String DEMO.exe
+C:\Users\11379413\Desktop\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\bin\Debug\11-27-13 Loops and String DEMO.pdb
+C:\Users\11379413\Desktop\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\_11_27_13_Loops_and_String_DEMO.Form1.resources
+C:\Users\11379413\Desktop\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\_11_27_13_Loops_and_String_DEMO.Properties.Resources.resources
+C:\Users\11379413\Desktop\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\11379413\Desktop\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\11379413\Desktop\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\11-27-13 Loops and String DEMO.exe
+C:\Users\11379413\Desktop\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\11-27-13 Loops and String DEMO.pdb
+G:\ISPROG1\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\11-27-13 Loops and String DEMO.exe
+G:\ISPROG1\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\11-27-13 Loops and String DEMO.pdb
+G:\ISPROG1\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\bin\Debug\11-27-13 Loops and String DEMO.exe
+G:\ISPROG1\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\bin\Debug\11-27-13 Loops and String DEMO.pdb
+G:\ISPROG1\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ISPROG1\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\_11_27_13_Loops_and_String_DEMO.Form1.resources
+G:\ISPROG1\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\_11_27_13_Loops_and_String_DEMO.Properties.Resources.resources
+G:\ISPROG1\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ISPROG1\11-27-13 Loops and String DEMO\11-27-13 Loops and String DEMO\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,9 @@
+C:\Users\Marie\Desktop\LongQuiz\LongQuiz\bin\Debug\LongQuiz.exe
+C:\Users\Marie\Desktop\LongQuiz\LongQuiz\bin\Debug\LongQuiz.pdb
+C:\Users\Marie\Desktop\LongQuiz\LongQuiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marie\Desktop\LongQuiz\LongQuiz\obj\x86\Debug\LongQuiz.Form1.resources
+C:\Users\Marie\Desktop\LongQuiz\LongQuiz\obj\x86\Debug\LongQuiz.Properties.Resources.resources
+C:\Users\Marie\Desktop\LongQuiz\LongQuiz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marie\Desktop\LongQuiz\LongQuiz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marie\Desktop\LongQuiz\LongQuiz\obj\x86\Debug\LongQuiz.exe
+C:\Users\Marie\Desktop\LongQuiz\LongQuiz\obj\x86\Debug\LongQuiz.pdb

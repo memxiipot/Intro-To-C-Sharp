@@ -1,0 +1,22 @@
+C:\Users\syel\Desktop\Graphics Applications\Graphics Applications\bin\Debug\Graphics Applications.exe
+C:\Users\syel\Desktop\Graphics Applications\Graphics Applications\bin\Debug\Graphics Applications.pdb
+C:\Users\syel\Desktop\Graphics Applications\Graphics Applications\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\syel\Desktop\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics_Applications.Form1.resources
+C:\Users\syel\Desktop\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics_Applications.Properties.Resources.resources
+C:\Users\syel\Desktop\Graphics Applications\Graphics Applications\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\syel\Desktop\Graphics Applications\Graphics Applications\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\syel\Desktop\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics Applications.exe
+C:\Users\syel\Desktop\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics Applications.pdb
+C:\EM XII\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics Applications.exe
+C:\EM XII\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics Applications.pdb
+C:\EM XII\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\bin\Debug\Graphics Applications.exe
+C:\EM XII\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\bin\Debug\Graphics Applications.pdb
+C:\EM XII\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\EM XII\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics_Applications.Form1.resources
+C:\EM XII\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics_Applications.Properties.Resources.resources
+C:\EM XII\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\EM XII\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics Applications.exe
+F:\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics Applications.pdb
+G:\ISPROG1\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics Applications.exe
+G:\ISPROG1\10-16-13 (If Statement DEMO and MP)\Graphics Applications\Graphics Applications\obj\x86\Debug\Graphics Applications.pdb

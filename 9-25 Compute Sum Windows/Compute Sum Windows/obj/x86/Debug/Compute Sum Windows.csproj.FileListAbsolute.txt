@@ -1,0 +1,20 @@
+C:\Users\11379413\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute_Sum_Windows.Form1.resources
+C:\Users\11379413\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute_Sum_Windows.Properties.Resources.resources
+C:\Users\11379413\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\11379413\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\11379413\Desktop\Compute Sum Windows\Compute Sum Windows\bin\Debug\Compute Sum Windows.exe
+C:\Users\11379413\Desktop\Compute Sum Windows\Compute Sum Windows\bin\Debug\Compute Sum Windows.pdb
+C:\Users\11379413\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute Sum Windows.exe
+C:\Users\11379413\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute Sum Windows.pdb
+F:\ISPROG\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute Sum Windows.exe
+F:\ISPROG\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute Sum Windows.pdb
+F:\ISPROG\Compute Sum Windows\Compute Sum Windows\bin\Debug\Compute Sum Windows.exe
+F:\ISPROG\Compute Sum Windows\Compute Sum Windows\bin\Debug\Compute Sum Windows.pdb
+F:\ISPROG\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute_Sum_Windows.Form1.resources
+F:\ISPROG\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute_Sum_Windows.Properties.Resources.resources
+F:\ISPROG\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ISPROG\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ISPROG\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ISPROG1\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute Sum Windows.exe
+G:\ISPROG1\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute Sum Windows.pdb

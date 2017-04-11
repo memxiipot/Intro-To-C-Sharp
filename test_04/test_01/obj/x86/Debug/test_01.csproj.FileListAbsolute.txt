@@ -1,0 +1,9 @@
+C:\Users\Marie\Desktop\test_01\test_01\bin\Debug\test_01.exe
+C:\Users\Marie\Desktop\test_01\test_01\bin\Debug\test_01.pdb
+C:\Users\Marie\Desktop\test_01\test_01\obj\x86\Debug\test_01.Form1.resources
+C:\Users\Marie\Desktop\test_01\test_01\obj\x86\Debug\test_01.Form2.resources
+C:\Users\Marie\Desktop\test_01\test_01\obj\x86\Debug\test_01.Form3.resources
+C:\Users\Marie\Desktop\test_01\test_01\obj\x86\Debug\test_01.Properties.Resources.resources
+C:\Users\Marie\Desktop\test_01\test_01\obj\x86\Debug\test_01.csproj.GenerateResource.Cache
+C:\Users\Marie\Desktop\test_01\test_01\obj\x86\Debug\test_01.exe
+C:\Users\Marie\Desktop\test_01\test_01\obj\x86\Debug\test_01.pdb

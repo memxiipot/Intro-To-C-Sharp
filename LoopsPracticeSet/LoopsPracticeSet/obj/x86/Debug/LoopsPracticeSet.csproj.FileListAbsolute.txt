@@ -1,0 +1,2 @@
+C:\Users\Marie\Desktop\LoopsPracticeSet\LoopsPracticeSet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marie\Desktop\Student Files\LoopsPracticeSet\LoopsPracticeSet\obj\x86\Debug\ResolveAssemblyReference.cache

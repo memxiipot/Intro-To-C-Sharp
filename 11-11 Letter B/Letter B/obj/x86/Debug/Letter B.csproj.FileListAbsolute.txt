@@ -1,0 +1,12 @@
+C:\Users\11379413\Desktop\Letter B\Letter B\bin\Debug\Letter B.exe
+C:\Users\11379413\Desktop\Letter B\Letter B\bin\Debug\Letter B.pdb
+C:\Users\11379413\Desktop\Letter B\Letter B\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\Letter B\Letter B\obj\x86\Debug\Letter B.exe
+C:\Users\11379413\Desktop\Letter B\Letter B\obj\x86\Debug\Letter B.pdb
+G:\ISPROG1\Letter B\Letter B\obj\x86\Debug\Letter B.exe
+G:\ISPROG1\Letter B\Letter B\obj\x86\Debug\Letter B.pdb
+G:\ISPROG1\11-11 Letter B\Letter B\obj\x86\Debug\Letter B.exe
+G:\ISPROG1\11-11 Letter B\Letter B\obj\x86\Debug\Letter B.pdb
+G:\ISPROG1\11-11 Letter B\Letter B\bin\Debug\Letter B.exe
+G:\ISPROG1\11-11 Letter B\Letter B\bin\Debug\Letter B.pdb
+G:\ISPROG1\11-11 Letter B\Letter B\obj\x86\Debug\ResolveAssemblyReference.cache

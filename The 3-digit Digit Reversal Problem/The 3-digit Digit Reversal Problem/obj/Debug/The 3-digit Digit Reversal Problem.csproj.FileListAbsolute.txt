@@ -1,0 +1,12 @@
+c:\users\marie\documents\visual studio 2012\Projects\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\bin\Debug\The 3-digit Digit Reversal Problem.exe.config
+c:\users\marie\documents\visual studio 2012\Projects\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\bin\Debug\The 3-digit Digit Reversal Problem.exe
+c:\users\marie\documents\visual studio 2012\Projects\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\bin\Debug\The 3-digit Digit Reversal Problem.pdb
+c:\users\marie\documents\visual studio 2012\Projects\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\obj\Debug\The 3-digit Digit Reversal Problem.csprojResolveAssemblyReference.cache
+c:\users\marie\documents\visual studio 2012\Projects\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\obj\Debug\The_3_digit_Digit_Reversal_Problem.Form1.resources
+c:\users\marie\documents\visual studio 2012\Projects\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\obj\Debug\The_3_digit_Digit_Reversal_Problem.Properties.Resources.resources
+c:\users\marie\documents\visual studio 2012\Projects\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\obj\Debug\The 3-digit Digit Reversal Problem.csproj.GenerateResource.Cache
+c:\users\marie\documents\visual studio 2012\Projects\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\obj\Debug\The 3-digit Digit Reversal Problem.exe
+c:\users\marie\documents\visual studio 2012\Projects\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\obj\Debug\The 3-digit Digit Reversal Problem.pdb
+F:\ISPROG\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\bin\Debug\The 3-digit Digit Reversal Problem.exe.config
+F:\ISPROG\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\obj\Debug\The 3-digit Digit Reversal Problem.exe
+F:\ISPROG\The 3-digit Digit Reversal Problem\The 3-digit Digit Reversal Problem\obj\Debug\The 3-digit Digit Reversal Problem.pdb

@@ -1,0 +1,5 @@
+C:\Users\syel\Desktop\Compute Sum Console\Compute Sum Console\bin\Debug\Compute Sum Console.exe
+C:\Users\syel\Desktop\Compute Sum Console\Compute Sum Console\bin\Debug\Compute Sum Console.pdb
+C:\Users\syel\Desktop\Compute Sum Console\Compute Sum Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\syel\Desktop\Compute Sum Console\Compute Sum Console\obj\x86\Debug\Compute Sum Console.exe
+C:\Users\syel\Desktop\Compute Sum Console\Compute Sum Console\obj\x86\Debug\Compute Sum Console.pdb

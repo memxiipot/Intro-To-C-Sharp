@@ -1,0 +1,18 @@
+C:\Users\syel\Desktop\My First Windows App\My First Windows App\bin\Debug\My First Windows App.exe
+C:\Users\syel\Desktop\My First Windows App\My First Windows App\bin\Debug\My First Windows App.pdb
+C:\Users\syel\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\syel\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\My_First_Windows_App.Form1.resources
+C:\Users\syel\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\My_First_Windows_App.Properties.Resources.resources
+C:\Users\syel\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\syel\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\syel\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.exe
+C:\Users\syel\Desktop\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.pdb
+C:\Users\syel\Desktop\09-16-13 (My First Windows App)\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.exe
+C:\Users\syel\Desktop\09-16-13 (My First Windows App)\My First Windows App\My First Windows App\obj\x86\Debug\My First Windows App.pdb
+C:\Users\syel\Desktop\09-16-13 (My First Windows App)\My First Windows App\My First Windows App\bin\Debug\My First Windows App.exe
+C:\Users\syel\Desktop\09-16-13 (My First Windows App)\My First Windows App\My First Windows App\bin\Debug\My First Windows App.pdb
+C:\Users\syel\Desktop\09-16-13 (My First Windows App)\My First Windows App\My First Windows App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\syel\Desktop\09-16-13 (My First Windows App)\My First Windows App\My First Windows App\obj\x86\Debug\My_First_Windows_App.Form1.resources
+C:\Users\syel\Desktop\09-16-13 (My First Windows App)\My First Windows App\My First Windows App\obj\x86\Debug\My_First_Windows_App.Properties.Resources.resources
+C:\Users\syel\Desktop\09-16-13 (My First Windows App)\My First Windows App\My First Windows App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\syel\Desktop\09-16-13 (My First Windows App)\My First Windows App\My First Windows App\obj\x86\Debug\GenerateResource.write.1.tlog

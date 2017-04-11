@@ -1,0 +1,9 @@
+C:\Users\syel\Desktop\Digit Reversal Problem\Digit Reversal Problem\bin\Debug\Digit Reversal Problem.exe
+C:\Users\syel\Desktop\Digit Reversal Problem\Digit Reversal Problem\bin\Debug\Digit Reversal Problem.pdb
+C:\Users\syel\Desktop\Digit Reversal Problem\Digit Reversal Problem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\syel\Desktop\Digit Reversal Problem\Digit Reversal Problem\obj\x86\Debug\Digit_Reversal_Problem.Form1.resources
+C:\Users\syel\Desktop\Digit Reversal Problem\Digit Reversal Problem\obj\x86\Debug\Digit_Reversal_Problem.Properties.Resources.resources
+C:\Users\syel\Desktop\Digit Reversal Problem\Digit Reversal Problem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\syel\Desktop\Digit Reversal Problem\Digit Reversal Problem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\syel\Desktop\Digit Reversal Problem\Digit Reversal Problem\obj\x86\Debug\Digit Reversal Problem.exe
+C:\Users\syel\Desktop\Digit Reversal Problem\Digit Reversal Problem\obj\x86\Debug\Digit Reversal Problem.pdb

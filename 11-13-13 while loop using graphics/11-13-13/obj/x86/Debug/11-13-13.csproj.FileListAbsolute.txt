@@ -1,0 +1,18 @@
+C:\Users\11379413\Desktop\11-13-13\11-13-13\bin\Debug\11-13-13.exe
+C:\Users\11379413\Desktop\11-13-13\11-13-13\bin\Debug\11-13-13.pdb
+C:\Users\11379413\Desktop\11-13-13\11-13-13\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\11-13-13\11-13-13\obj\x86\Debug\_11_13_13.Form1.resources
+C:\Users\11379413\Desktop\11-13-13\11-13-13\obj\x86\Debug\_11_13_13.Properties.Resources.resources
+C:\Users\11379413\Desktop\11-13-13\11-13-13\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\11379413\Desktop\11-13-13\11-13-13\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\11379413\Desktop\11-13-13\11-13-13\obj\x86\Debug\11-13-13.exe
+C:\Users\11379413\Desktop\11-13-13\11-13-13\obj\x86\Debug\11-13-13.pdb
+G:\ISPROG1\11-13-13 while loop using graphics\11-13-13\obj\x86\Debug\11-13-13.exe
+G:\ISPROG1\11-13-13 while loop using graphics\11-13-13\obj\x86\Debug\11-13-13.pdb
+G:\ISPROG1\11-13-13 while loop using graphics\11-13-13\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ISPROG1\11-13-13 while loop using graphics\11-13-13\bin\Debug\11-13-13.exe
+G:\ISPROG1\11-13-13 while loop using graphics\11-13-13\bin\Debug\11-13-13.pdb
+G:\ISPROG1\11-13-13 while loop using graphics\11-13-13\obj\x86\Debug\_11_13_13.Form1.resources
+G:\ISPROG1\11-13-13 while loop using graphics\11-13-13\obj\x86\Debug\_11_13_13.Properties.Resources.resources
+G:\ISPROG1\11-13-13 while loop using graphics\11-13-13\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ISPROG1\11-13-13 while loop using graphics\11-13-13\obj\x86\Debug\GenerateResource.write.1.tlog

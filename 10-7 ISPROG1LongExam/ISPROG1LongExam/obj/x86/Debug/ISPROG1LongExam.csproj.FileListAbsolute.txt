@@ -1,0 +1,11 @@
+C:\Users\11379413\Desktop\ISPROG1LongExam\ISPROG1LongExam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\ISPROG1LongExam\ISPROG1LongExam\obj\x86\Debug\ISPROG1LongExam.Form1.resources
+C:\Users\11379413\Desktop\ISPROG1LongExam\ISPROG1LongExam\obj\x86\Debug\ISPROG1LongExam.Properties.Resources.resources
+C:\Users\11379413\Desktop\ISPROG1LongExam\ISPROG1LongExam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\11379413\Desktop\ISPROG1LongExam\ISPROG1LongExam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\11379413\Desktop\ISPROG1LongExam\ISPROG1LongExam\bin\Debug\ISPROG1LongExam.exe
+C:\Users\11379413\Desktop\ISPROG1LongExam\ISPROG1LongExam\bin\Debug\ISPROG1LongExam.pdb
+C:\Users\11379413\Desktop\ISPROG1LongExam\ISPROG1LongExam\obj\x86\Debug\ISPROG1LongExam.exe
+C:\Users\11379413\Desktop\ISPROG1LongExam\ISPROG1LongExam\obj\x86\Debug\ISPROG1LongExam.pdb
+G:\ISPROG1\ISPROG1LongExam\ISPROG1LongExam\obj\x86\Debug\ISPROG1LongExam.exe
+G:\ISPROG1\ISPROG1LongExam\ISPROG1LongExam\obj\x86\Debug\ISPROG1LongExam.pdb

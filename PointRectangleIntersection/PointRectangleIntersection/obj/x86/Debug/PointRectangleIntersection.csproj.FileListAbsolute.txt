@@ -1,0 +1,9 @@
+C:\Users\11379413\Desktop\PointRectangleIntersection\PointRectangleIntersection\bin\Debug\PointRectangleIntersection.exe
+C:\Users\11379413\Desktop\PointRectangleIntersection\PointRectangleIntersection\bin\Debug\PointRectangleIntersection.pdb
+C:\Users\11379413\Desktop\PointRectangleIntersection\PointRectangleIntersection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\PointRectangleIntersection\PointRectangleIntersection\obj\x86\Debug\PointRectangleIntersection.Form1.resources
+C:\Users\11379413\Desktop\PointRectangleIntersection\PointRectangleIntersection\obj\x86\Debug\PointRectangleIntersection.Properties.Resources.resources
+C:\Users\11379413\Desktop\PointRectangleIntersection\PointRectangleIntersection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\11379413\Desktop\PointRectangleIntersection\PointRectangleIntersection\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\11379413\Desktop\PointRectangleIntersection\PointRectangleIntersection\obj\x86\Debug\PointRectangleIntersection.exe
+C:\Users\11379413\Desktop\PointRectangleIntersection\PointRectangleIntersection\obj\x86\Debug\PointRectangleIntersection.pdb

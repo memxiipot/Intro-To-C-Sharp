@@ -1,0 +1,7 @@
+C:\Users\Marie\Desktop\LooopsMarathon\LooopsMarathon\bin\Debug\LooopsMarathon.exe
+C:\Users\Marie\Desktop\LooopsMarathon\LooopsMarathon\bin\Debug\LooopsMarathon.pdb
+C:\Users\Marie\Desktop\LooopsMarathon\LooopsMarathon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marie\Desktop\LooopsMarathon\LooopsMarathon\obj\x86\Debug\LooopsMarathon.exe
+C:\Users\Marie\Desktop\LooopsMarathon\LooopsMarathon\obj\x86\Debug\LooopsMarathon.pdb
+G:\ISPROG1\LooopsMarathon\LooopsMarathon\obj\x86\Debug\LooopsMarathon.exe
+G:\ISPROG1\LooopsMarathon\LooopsMarathon\obj\x86\Debug\LooopsMarathon.pdb

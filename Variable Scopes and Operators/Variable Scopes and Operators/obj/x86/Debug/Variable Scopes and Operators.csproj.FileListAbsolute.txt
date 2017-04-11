@@ -1,0 +1,17 @@
+C:\Users\syel\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\bin\Debug\Variable Scopes and Operators.exe
+C:\Users\syel\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\bin\Debug\Variable Scopes and Operators.pdb
+C:\Users\syel\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\syel\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable_Scopes_and_Operators.Form1.resources
+C:\Users\syel\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable_Scopes_and_Operators.Properties.Resources.resources
+C:\Users\syel\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\syel\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\syel\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable Scopes and Operators.exe
+C:\Users\syel\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable Scopes and Operators.pdb
+C:\Users\Marie\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable Scopes and Operators.exe
+C:\Users\Marie\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable Scopes and Operators.pdb
+C:\Users\Marie\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\bin\Debug\Variable Scopes and Operators.exe
+C:\Users\Marie\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\bin\Debug\Variable Scopes and Operators.pdb
+C:\Users\Marie\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable Scopes and Operators.csprojResolveAssemblyReference.cache
+C:\Users\Marie\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable_Scopes_and_Operators.Form1.resources
+C:\Users\Marie\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable_Scopes_and_Operators.Properties.Resources.resources
+C:\Users\Marie\Desktop\Variable Scopes and Operators\Variable Scopes and Operators\obj\x86\Debug\Variable Scopes and Operators.csproj.GenerateResource.Cache

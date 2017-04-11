@@ -1,0 +1,11 @@
+C:\Users\11379413\Desktop\Quiz2\Quiz2\bin\Debug\Quiz2.exe
+C:\Users\11379413\Desktop\Quiz2\Quiz2\bin\Debug\Quiz2.pdb
+C:\Users\11379413\Desktop\Quiz2\Quiz2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\Quiz2\Quiz2\obj\x86\Debug\Quiz2.Form1.resources
+C:\Users\11379413\Desktop\Quiz2\Quiz2\obj\x86\Debug\Quiz2.Properties.Resources.resources
+C:\Users\11379413\Desktop\Quiz2\Quiz2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\11379413\Desktop\Quiz2\Quiz2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\11379413\Desktop\Quiz2\Quiz2\obj\x86\Debug\Quiz2.exe
+C:\Users\11379413\Desktop\Quiz2\Quiz2\obj\x86\Debug\Quiz2.pdb
+G:\ISPROG1\Quiz2\Quiz2\obj\x86\Debug\Quiz2.exe
+G:\ISPROG1\Quiz2\Quiz2\obj\x86\Debug\Quiz2.pdb

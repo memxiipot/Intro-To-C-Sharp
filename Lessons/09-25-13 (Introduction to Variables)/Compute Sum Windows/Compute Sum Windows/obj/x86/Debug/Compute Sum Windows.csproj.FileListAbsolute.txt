@@ -1,0 +1,9 @@
+C:\Users\syel\Desktop\Compute Sum Windows\Compute Sum Windows\bin\Debug\Compute Sum Windows.exe
+C:\Users\syel\Desktop\Compute Sum Windows\Compute Sum Windows\bin\Debug\Compute Sum Windows.pdb
+C:\Users\syel\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\syel\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute_Sum_Windows.Form1.resources
+C:\Users\syel\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute_Sum_Windows.Properties.Resources.resources
+C:\Users\syel\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\syel\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\syel\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute Sum Windows.exe
+C:\Users\syel\Desktop\Compute Sum Windows\Compute Sum Windows\obj\x86\Debug\Compute Sum Windows.pdb

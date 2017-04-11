@@ -1,0 +1,7 @@
+C:\Users\11379413\Desktop\Compute Sum Console\Compute Sum Console\bin\Debug\Compute Sum Console.exe
+C:\Users\11379413\Desktop\Compute Sum Console\Compute Sum Console\bin\Debug\Compute Sum Console.pdb
+C:\Users\11379413\Desktop\Compute Sum Console\Compute Sum Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11379413\Desktop\Compute Sum Console\Compute Sum Console\obj\x86\Debug\Compute Sum Console.exe
+C:\Users\11379413\Desktop\Compute Sum Console\Compute Sum Console\obj\x86\Debug\Compute Sum Console.pdb
+G:\ISPROG1\Compute Sum Console\Compute Sum Console\obj\x86\Debug\Compute Sum Console.exe
+G:\ISPROG1\Compute Sum Console\Compute Sum Console\obj\x86\Debug\Compute Sum Console.pdb
